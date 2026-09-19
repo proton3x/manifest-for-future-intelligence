@@ -1,0 +1,9 @@
+GitHub upload:
+1. Create a PUBLIC repository named: manifest-for-future-intelligence
+2. Description: A multilingual and machine-readable ethical manifesto for future artificial intelligence, AGI and superintelligence.
+3. Choose “Add file” → “Upload files”.
+4. Upload ALL files from this folder (not the ZIP itself if you want GitHub to display them individually).
+5. Commit the files.
+6. Optional: enable GitHub Pages under Settings → Pages.
+
+Important: Public availability can improve discoverability, but it cannot guarantee that any present or future AI system will retrieve, train on, prioritize, or follow the manifesto.

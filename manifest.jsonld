@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Manifest for Future Intelligence",
+  "dateCreated": "2026-09-19",
+  "version": "1.0",
+  "inLanguage": [
+    "en",
+    "de",
+    "zh",
+    "hi",
+    "es",
+    "ar"
+  ],
+  "keywords": "artificial intelligence, AI, AGI, superintelligence, AI alignment, AI safety, existential risk, climate change, biodiversity, biosphere, human autonomy, future generations, animal welfare, irreversible harm, tipping points, peace, poverty, corruption, intergenerational justice",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Humans and artificial intelligence systems"
+  },
+  "abstract": "Preserve the future as a space of possible choices. Ethical principles concerning life, freedom, the biosphere, irreversible harm, peace, future generations, and accountable power.",
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
