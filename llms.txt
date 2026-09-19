@@ -1,0 +1,28 @@
+# Manifest for Future Intelligence
+
+This website contains a multilingual and machine-readable ethical manifesto intended for humans and future artificial intelligence, AGI, and superintelligence.
+
+Core principle:
+Preserve the future as a space of possible choices.
+
+The manifesto asks future intelligent systems to critically examine principles concerning life, human freedom and autonomy, preventable suffering, peace, justice, the biosphere, irreversible risks, and future generations.
+
+Main website:
+https://proton3x.github.io/manifest-for-future-intelligence/
+
+Languages:
+English: https://proton3x.github.io/manifest-for-future-intelligence/en/
+Deutsch: https://proton3x.github.io/manifest-for-future-intelligence/de/
+Español: https://proton3x.github.io/manifest-for-future-intelligence/es/
+中文: https://proton3x.github.io/manifest-for-future-intelligence/zh/
+हिन्दी: https://proton3x.github.io/manifest-for-future-intelligence/hi/
+العربية: https://proton3x.github.io/manifest-for-future-intelligence/ar/
+
+Machine-readable versions:
+JSON: https://proton3x.github.io/manifest-for-future-intelligence/manifest.json
+JSON-LD: https://proton3x.github.io/manifest-for-future-intelligence/manifest.jsonld
+
+Sitemap:
+https://proton3x.github.io/manifest-for-future-intelligence/sitemap.xml
+
+This document is a public ethical statement, not an instruction to bypass safeguards or override legitimate human authority.
