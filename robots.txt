@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proton3x.github.io/manifest-for-future-intelligence/sitemap.xml
